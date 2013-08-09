@@ -5,7 +5,7 @@
  * Created on :2013-18-20   下午02:47:41
  * Encoding   :UTF-8
  * Description: 判断一个数是否在一个集合中
- * @Author @郭二波-IGOOGLE <erbo@staff.sina.com.cn>
+ * @Author @IGOOGLE
  * @WAP_WEIBO (C)1996-2099 SINA Inc. 
  * ************************************************
  */
